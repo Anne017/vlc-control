@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-27 22:01-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: vlc-control.qml:87 .ubuntu-sdk-deploy/vlc-control.qml:87
+msgid "Control"
+msgstr "Contrôles"
+
+#: vlc-control.qml:93 .ubuntu-sdk-deploy/vlc-control.qml:93
+msgid "Playlist"
+msgstr "Liste de lecture"
+
+#: vlc-control.qml:99 .ubuntu-sdk-deploy/vlc-control.qml:99
+msgid "Browser"
+msgstr "Navigateur"
+
+#: vlc-control.qml:105 .ubuntu-sdk-deploy/vlc-control.qml:105
+msgid "Connection"
+msgstr "Connexion"
+
+#: vlc-control.qml:111 .ubuntu-sdk-deploy/vlc-control.qml:111
+msgid "About"
+msgstr "À propos"
+
+#: view/Connection.qml:22 .ubuntu-sdk-deploy/view/Connection.qml:22
+msgid "IP Address"
+msgstr "Adresse IP"
+
+#: view/Connection.qml:32 .ubuntu-sdk-deploy/view/Connection.qml:32
+msgid "default: 192.168.0.1"
+msgstr "par défaut[nbsp]: 192.168.0.1"
+
+#: view/Connection.qml:41 .ubuntu-sdk-deploy/view/Connection.qml:41
+msgid "Port"
+msgstr "Port"
+
+#: view/Connection.qml:51 .ubuntu-sdk-deploy/view/Connection.qml:51
+msgid "default: 8080"
+msgstr "par défault[nbsp]: 8080"
+
+#: view/Connection.qml:60 .ubuntu-sdk-deploy/view/Connection.qml:60
+msgid "Password"
+msgstr "Mot de passe"
+
+#: view/Connection.qml:70 .ubuntu-sdk-deploy/view/Connection.qml:70
+msgid "default: none"
+msgstr "par défaut[nbsp]: aucun"
+
+#: view/Connection.qml:83 .ubuntu-sdk-deploy/view/Connection.qml:83
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: view/Connection.qml:100 .ubuntu-sdk-deploy/view/Connection.qml:100
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: view/About.qml:33 .ubuntu-sdk-deploy/view/About.qml:33
+msgid "Created by"
+msgstr "Créé par"
+
+#: view/About.qml:43 .ubuntu-sdk-deploy/view/About.qml:43
+msgid "Jonathan D'Orleans"
+msgstr "Jonathan D'Orleans"
+
+#: view/About.qml:49 .ubuntu-sdk-deploy/view/About.qml:49
+msgid "<jonathan.dorleans@gmail.com>"
+msgstr "<jonathan.dorleans@gmail.com>"
